@@ -1,0 +1,55 @@
+[33mcommit 6a552f85b1019ed0fce5d8d5b2cd2f701329d390[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: eb5f8a2 420041d
+Author: dev3 <dev3@gmail.com>
+Date:   Sat Jul 16 23:07:57 2022 +0530
+
+    iMerge branch 'main' of https://github.com/chinky1234/test-repo1
+    latest commit
+
+[33mcommit eb5f8a266db9ac2dce670310361a4cf461bbfd7a[m
+Author: dev3 <dev3@gmail.com>
+Date:   Sat Jul 16 22:41:40 2022 +0530
+
+    file4
+
+[33mcommit 420041d02cd6dd3b5b6bca806971797a6ff4df4e[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: dev2 <dev2@gmail.com>
+Date:   Sat Jul 16 18:11:54 2022 +0530
+
+    file3
+
+[33mcommit 5ad01a9668e92911e1f695e443fb0fb4cb9e18bf[m
+Author: dev2 <dev2@gmail.com>
+Date:   Sat Jul 16 18:10:37 2022 +0530
+
+    new file
+
+[33mcommit 15e0b33854f16dee92e57271840836f6bd8e8b71[m
+Author: dev2 <dev2@gmail.com>
+Date:   Sat Jul 16 17:51:24 2022 +0530
+
+    second commit
+
+[33mcommit ef8f3dd7632937c12c21dab1e774d1cc29b0401e[m
+Author: dev2 <dev2@gmail.com>
+Date:   Tue Jul 5 23:40:44 2022 +0530
+
+    first commit
+
+[33mcommit dcd5ce180aecf16106e711fd23b9ff4d58bf0cec[m
+Author: shasanka <sram@yahoo.com>
+Date:   Mon Jul 4 23:12:14 2022 +0530
+
+    file3
+
+[33mcommit 458857009773630bbf20404e3925307e0b2dac83[m
+Author: shasanka <sram@yahoo.com>
+Date:   Mon Jul 4 23:10:50 2022 +0530
+
+    new file
+
+[33mcommit 90d0171efaa449e638ec605a1ddb00cadcaa9ff4[m
+Author: shasanka <sram@yahoo.com>
+Date:   Mon Jul 4 22:47:53 2022 +0530
+
+    first commit
